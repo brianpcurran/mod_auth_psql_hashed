@@ -3,7 +3,7 @@
 -- Copyright (C) 2011 Tomasz Sterna <tomek@xiaoka.com>
 -- Copyright (C) 2011 Waqas Hussain <waqas20@gmail.com>
 -- Copyright (C) 2011 Kim Alvefur
--- Copyright (C) 2014 ***REMOVED*** <***REMOVED***>
+-- Copyright (C) 2014 Brian Curran <brian@brianpcurran.com>
 
 -- Permission is hereby granted, free of charge, to any person obtaining a copy
 -- of this software and associated documentation files (the "Software"), to deal
